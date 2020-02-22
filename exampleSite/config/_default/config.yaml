@@ -42,7 +42,7 @@ languages:
         siteName: Fly-out
         image: images/ogp.jpg
         locale: en-US
-    title: Fly-out Soft and Fly
+    title: Fly-out
     weight: 1
   fr:
     contentDir: content/fr
