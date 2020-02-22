@@ -1,12 +1,9 @@
 ---
 title: Home
-description: Hugo Theme IRIS homepage
-date: 2020-01-01T23:00:00.000Z
+description: Fly-out homepage
+date: 2020-02-23
 ---
-
-
-
-## About Hugo IRIS Theme
+## About Flyout
 
 View source code on GitHub.
 
