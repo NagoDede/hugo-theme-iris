@@ -36,28 +36,24 @@ languages:
     languageName: English
     languageCode: en-us
     params:
-      author: peaceiris
-      description: Hugo IRIS Theme Demo Site
-      twitter:
-        username: piris314
+      author: NagoDede
+      description: Fly-out.fr website
       ogp:
-        siteName: Hugo Theme Iris
+        siteName: NagoDede
         image: images/ogp.jpg
         locale: en-US
     title: Hugo IRIS Theme
     weight: 1
-  ja:
-    contentDir: content/ja
-    languageName: 日本語
-    languageCode: ja-jp
+  fr:
+    contentDir: content/fr
+    languageName: Français
+    languageCode: fr-fr
     params:
-      author: peaceiris
-      description: Hugo IRIS テーマデモサイト
-      twitter:
-        username: piris314
+      author: NagoDede
+      description: Flyout-fr website
       ogp:
         siteName: Hugo Theme Iris
         image: images/ogp.jpg
-        locale: js-JP
-    title: Hugo IRIS テーマ
+        locale: fr-FR
+    title: NagoDede
     weight: 2
