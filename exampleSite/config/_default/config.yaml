@@ -37,12 +37,12 @@ languages:
     languageCode: en-us
     params:
       author: NagoDede
-      description: Fly-out.fr website
+      description: Soft and Fly
       ogp:
-        siteName: NagoDede
+        siteName: Fly-out
         image: images/ogp.jpg
         locale: en-US
-    title: Hugo IRIS Theme
+    title: Fly-out Soft and Fly
     weight: 1
   fr:
     contentDir: content/fr
@@ -50,10 +50,10 @@ languages:
     languageCode: fr-fr
     params:
       author: NagoDede
-      description: Flyout-fr website
+      description: 
       ogp:
-        siteName: Hugo Theme Iris
+        siteName: Fly-out
         image: images/ogp.jpg
         locale: fr-FR
-    title: NagoDede
+    title: Fly-out
     weight: 2
