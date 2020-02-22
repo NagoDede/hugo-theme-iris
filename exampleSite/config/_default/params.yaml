@@ -1,5 +1,5 @@
 repo:
-  URL: "https://github.com/peaceiris/hugo-theme-iris"
+  URL: "https://github.com/NagoDede/hugo-theme-iris"
   branch: master
   contentDir: exampleSite/content
 
